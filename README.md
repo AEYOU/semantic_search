@@ -13,7 +13,7 @@ This project implements a semantic search pipeline for evaluating query relevanc
 
 ## Usage
 1. Run the script:
-`python script.py`
+`python script.py`<br>
 The output will be saved in the `output` directory as `query_ndcg_df.parquet`.
 
 2. Run the notebook:
